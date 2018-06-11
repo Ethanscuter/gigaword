@@ -1,4 +1,4 @@
-This code produces the non-anonymized version of the Gigaword summarization dataset, as used in the ACL 2017 paper Get To The Point: Summarization with Pointer-Generator Networks. It processes the dataset into the binary format expected by the code for the Tensorflow model.
+This code produces the non-anonymized version of the Gigaword summarization dataset, as used in the ACL 2017 paper [Get To The Point: Summarization with Pointer-Generator Networks](https://github.com/abisee/cnn-dailymail). It processes the dataset into the binary format expected by the code for the Tensorflow model.
 ## Something must be done before running the code
 ```
 python mkdir.py
