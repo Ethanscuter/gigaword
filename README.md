@@ -5,7 +5,7 @@ python mkdir.py
 ```
 It will make some directories needed.
 ## Download data and process data
-Download the data from the [URL](https://drive.google.com/open?id=1eNUzf015MhbjOZBpRQOfEqjdPwNz9ii) and unzip it. Replace the empty directory ./data/datafiles with the data you have downloaded.
+Download the data from the [URL](https://drive.google.com/open?id=1eNUzf015MhbjOZBpRQOfEqjdPwNz9iiS) and unzip it. Replace the empty directory ./data/datafiles with the data you have downloaded.
  ```
 python ./data/data.py
 ```
