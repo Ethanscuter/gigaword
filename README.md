@@ -5,8 +5,10 @@ python mkdir.py
 ```
 It will make some directories needed.
 # Download data and process data
-1. Download the data from the [URL](https://drive.google.com/open?id=1eNUzf015MhbjOZBpRQOfEqjdPwNz9ii) and unzip it. Replace the empty directory ./data/datafiles with the data you have downloaded.
-2. python ./data/data.py
+Download the data from the [URL](https://drive.google.com/open?id=1eNUzf015MhbjOZBpRQOfEqjdPwNz9ii) and unzip it. Replace the empty directory ./data/datafiles with the data you have downloaded.
+ ```
+python ./data/data.py
+```
 # Convet the data into bin files
 ```
 python ./makedatafile/make_datafiles.py
