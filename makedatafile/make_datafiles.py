@@ -36,7 +36,7 @@ CHUNK_SIZE = 1000  # num examples per chunk, for the chunked data
 
 
 def chunk_file(set_name):
-  in_file = 'finished_files/%s.bin' % set_name
+  in_file = '../data/giga/finished_files/%s.bin' % set_name
   reader = open(in_file, "rb")
   chunk = 0
   finished = False
